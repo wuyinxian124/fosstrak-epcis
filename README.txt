@@ -44,3 +44,7 @@ select "Existing Project into Workspace"
 browse to the root directory of the maven project
 in the lower window you should see all project modules listed
 select all and click "Finish"
+
+
+上面提到的 eclipse 解决方式
+我们直接用idea 的解决方式
